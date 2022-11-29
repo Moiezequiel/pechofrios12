@@ -46,7 +46,7 @@ export const about = {
   icon: UsersIcn,
   title: 'Nuestra mision',
   subtitle1:
-    'Somos un sitio que ayuda a motivarte para que hagas ejercicio sin complicaciones y gratis sin costo alguno.',
+    'Somos un sitio que ayuda a motivarte para que hagas ejercicio sin complicaciones ',
   subtitle2:
     'Puede que haya perdido todo, pero jamás dejaré de pelear por lo que creo.',
   link: 'Inicia aqui',
