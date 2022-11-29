@@ -28,8 +28,8 @@ export const header = {
 export const nav = [
   { name: 'Inicio', href: '/' },
   { name: 'Sobre nosotros ', href: '/' },
-  { name: 'Ejercicios', href: '/' },
-   { name: 'Comunidad', href: '/' },
+  { name: 'Ejercicios y planes de entrenamiento', href: '/' },
+   { name: 'Comunidad y frases motivacioanles', href: '/' },
  
 ];
 
