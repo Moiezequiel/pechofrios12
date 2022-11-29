@@ -5,7 +5,7 @@ import { footer } from '../data';
 
 const Footer = () => {
   
-  const { logo, copyrightText } = footer;
+  const {  copyrightText } = footer;
   return (
     <footer className='bg-neutral-500 h-[125px] md:h-[195px] px-[20px]'>
       <div
@@ -14,9 +14,7 @@ const Footer = () => {
         data-aos-delay='200'
       >
         
-        <a href='#'>
-          <img className='' src={logo} alt='' />
-        </a>
+     
         
         <p className='text-neutral-300 text-sm'>{copyrightText}</p>
       </div>

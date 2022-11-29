@@ -22,7 +22,7 @@ const Header = () => {
   });
 
   
-  const { logo, btnLoginText, btnSignupText } = header;
+  const {  btnLoginText, btnSignupText } = header;
   return (
     <header
       className={`${
@@ -30,9 +30,7 @@ const Header = () => {
       } fixed max-w-[1440px] left-0 right-0 mx-auto flex justify-between items-center px-[20px] lg:px-[80px] z-30 transition-all duration-300`}
     >
       
-      <a href='/'>
-        <img className='h-[30px]' src={logo} alt='' />
-      </a>
+      
 
       
       <Nav />
